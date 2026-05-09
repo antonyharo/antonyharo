@@ -1,5 +1,5 @@
 # Antony Haro
-💻 **Software & Data Engineering | Python • SQL • Docker**
+**Data Engineering | Python, SQL, Docker & AWS**
 
 Sou um desenvolvedor focado em Engenharia de Dados, com experiência em construção de pipelines resilientes e automações B2B. Gosto de atuar na resolução de gargalos operacionais complexos, transformando processos manuais lentos em infraestrutura de dados escalável para o mercado B2B.
 
