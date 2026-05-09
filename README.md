@@ -10,4 +10,4 @@ Nos meus projetos mais recentes, implementei pipelines de IA Generativa do zero,
 
 ---
 
-**Contato:** [LinkedIn](https://www.linkedin.com/in/antony-haro-036646305/) | antonyharo111@gmail.com
+**Contato:** [LinkedIn](https://www.linkedin.com/in/antonyharo/) | antonyharo111@gmail.com
